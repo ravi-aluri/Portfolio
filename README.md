@@ -9,7 +9,6 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 ## 📍 Live Demo
 
 👉 [Visit My Portfolio](https://ravi-aluri.onrender.com)  
-*(Replace with your Render or GitHub Pages link)*
 
 ---
 
@@ -17,7 +16,7 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **Responsive Design**
 - **[ScrollReveal.js](https://scrollrevealjs.org/)** for animations
 - **Font Awesome** for icons
@@ -41,6 +40,6 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/ravi-aluri/Portfolio.git
 cd your-portfolio
 # Open index.html in browser
