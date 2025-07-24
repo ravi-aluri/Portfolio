@@ -41,5 +41,5 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/ravi-aluri/Portfolio.git
-cd your-portfolio
+cd Portfolio
 # Open index.html in browser
